@@ -16,7 +16,11 @@ Logistic Regression: Used for initial classification.
 Decision Tree and Random Forest: Implemented for comparison.
 User Input Prediction: The model allows users to input key health parameters, and it predicts whether the person is likely to have heart disease or not.
 Usage
+
 Training the Model: You can retrain the model on the dataset provided or use a different dataset with the same structure.
+
 Prediction: Use the pre-trained model to predict heart disease based on new inputs.
+
 Contributions
+
 Feel free to fork this repository and submit pull requests for improvements.
